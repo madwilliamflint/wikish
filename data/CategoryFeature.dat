@@ -1,0 +1,5 @@
+The CategoryFeature from the original c2 Wiki was a convention more than a feature.  Pages that belonged to a particular category had a CategoryPage name at the bottom.  Then once you could use the SearchFeature for backlinks to that CategoryPage to get the list of all members of that category.
+
+Then there was a CategoryCategory page that had links to all the CategoryPage pages. I'm not sure if that was 'special' or if it just relied on someone adding them one by each. But that would show you all the categories.
+
+This provided a nice NavigationMechanism akin to HashTag type decoration without interfering with the rest of the site's workings.

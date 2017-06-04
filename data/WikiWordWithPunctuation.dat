@@ -1,0 +1,3 @@
+Huh. In the first version I had a bug that would roll anything that wasn't a space into the tokenizer.  I put this title in the FrontPage to get it to trigger the bug. But apparently I'd already fixed it.
+
+Makes me think I should set up a CurrentBugs page.

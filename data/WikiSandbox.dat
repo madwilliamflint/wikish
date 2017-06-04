@@ -1,0 +1,13 @@
+This is just a goofy little scratch space to screw around with formatting. Hit the edit button to see how things are formatted.
+
+A line that starts with five hyphens will insert a horizontal rule while preserving the rest of the text on the line afterwards, like so...
+
+----- Here's some text.
+
+A WikiWord is two or more words, properly capitalized, smacked together.
+
+ThisIs a WikiWord
+ThisIsNotAWikiWord because of the "A" and "Wiki" pushing two capital letters together. 
+ThisIsAlsoOne
+
+IF a WikiWord doesn't have a WikiPage, it will show up with a leading question mark.  If you click on THAT, it will let you add a new page. From then on that WikiWord will be rendered as a full link.

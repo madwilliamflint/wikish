@@ -1,0 +1,13 @@
+This is just a place to bat around ideas. It's differentiated from PlannedEnhancementsAndBugFixes in that I don't actually have anything here slated for work.  Accepted ideas will be just promoted into the aforementioned page.
+
+If you add to this, make sure to separate your entry from the above entries with a line containing 5 hyphens (this causes the RenderingEngine to produce a HorizontalRule in the page.)
+
+-----
+Add a way to do graceful errors. i.e. 500 Server Errors.
+
+Pretty sure I can just add a 500 error router to the script.
+-----
+Add a redirect after saves so it doesn't put everything on the page in the url after saving.
+
+
+-----

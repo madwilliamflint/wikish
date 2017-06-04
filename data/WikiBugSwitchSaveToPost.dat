@@ -1,0 +1,15 @@
+Right now I'm using get requests for everything.  That's really stupid. But it works.
+
+I think this is as simple as:
+
+-  changing the template form action to post
+-  changing the bottle route method in the save route to post
+-  changing the retrieval of the content form variable to use the post method (bottle specific change.)
+
+SHOULD be done. I'll know when I hit save on this....page.
+
+Yep! *\o/*
+
+
+
+CategoryWikiBug

@@ -1,0 +1,1 @@
+Right now the RenderingEngine is a trivial list of python functions.  As it grows and I add more rules to fill out the feature set I'm going to RefactorCode to put the engine in its own separate module and incorporate a PlugInArchitecture so I can open it up to changes without screwing with the BaseEngine.

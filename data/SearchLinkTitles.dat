@@ -1,0 +1,6 @@
+The title of a normal ViewPage should be a link to a "search for BackLink" function.
+
+-  Change template to build the link to a 'search' function
+-  Add the 'search' route in bottle.
+-  Build hook into save function that updates an internal (but persisted) map of WikiPage names to lists of pages they're referenced by.
+-  Map route to scan function.
